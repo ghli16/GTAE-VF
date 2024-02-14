@@ -1,4 +1,4 @@
-Guanghui Li, Peihao Bai, Jiao Chen, Cheng Liang,Identifying virulence factors using graph transformer autoencoder with ESMFold-predicted structures,
+Guanghui Li, Peihao Bai, Jiao Chen, Cheng Liang, Identifying virulence factors using graph transformer autoencoder with ESMFold-predicted structures,
 Computers in Biology and Medicine, 2024, 170: 108062.
 
 ## Code
